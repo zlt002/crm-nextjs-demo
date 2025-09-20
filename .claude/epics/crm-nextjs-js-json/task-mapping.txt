@@ -1,0 +1,9 @@
+.claude/epics/crm-nextjs-js-json/001.md:2
+.claude/epics/crm-nextjs-js-json/002.md:3
+.claude/epics/crm-nextjs-js-json/003.md:4
+.claude/epics/crm-nextjs-js-json/004.md:5
+.claude/epics/crm-nextjs-js-json/005.md:6
+.claude/epics/crm-nextjs-js-json/006.md:7
+.claude/epics/crm-nextjs-js-json/007.md:8
+.claude/epics/crm-nextjs-js-json/008.md:9
+.claude/epics/crm-nextjs-js-json/009.md:10

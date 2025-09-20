@@ -4,7 +4,7 @@ status: backlog
 created: 2025-09-20T10:55:33Z
 progress: 0%
 prd: .claude/prds/crm-nextjs-js-json.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/zlt002/crm-nextjs-demo/issues/1
 ---
 
 # Epic: crm-nextjs-js-json
@@ -304,20 +304,16 @@ src/
 - 准备回滚方案防止功能延期
 
 ## Tasks Created
+- [ ] #10 -  (parallel: false)
+- [ ] #2 -  (parallel: true)
+- [ ] #3 -  (parallel: true)
+- [ ] #4 -  (parallel: false)
+- [ ] #5 -  (parallel: false)
+- [ ] #6 -  (parallel: false)
+- [ ] #7 -  (parallel: false)
+- [ ] #8 -  (parallel: true)
+- [ ] #9 -  (parallel: false)
 
-- [ ] 001.md - 项目初始化和环境搭建 (parallel: true)
-- [ ] 002.md - UI系统集成和主题配置 (parallel: true)
-- [ ] 003.md - 数据层和API基础架构 (parallel: false)
-- [ ] 004.md - 用户认证系统实现 (parallel: false)
-- [ ] 005.md - 客户管理功能开发 (parallel: false)
-- [ ] 006.md - 商机管理和销售漏斗 (parallel: false)
-- [ ] 007.md - 任务管理系统 (parallel: true)
-- [ ] 008.md - 数据可视化和报表 (parallel: false)
-- [ ] 009.md - 性能优化、测试和部署 (parallel: false)
-
-**任务统计:**
-- **总任务数**: 9个
-- **可并行任务**: 3个 (001, 002, 007)
-- **顺序任务**: 6个
-- **预估总工时**: 约68小时 (约8.5个工作日)
-- **关键路径长度**: 6个任务串行
+Total tasks: 9
+Parallel tasks: 3
+Sequential tasks: 6
